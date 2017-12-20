@@ -1,2 +1,2 @@
 # python practice
-learn and practice python language
+learn and practice python language.
