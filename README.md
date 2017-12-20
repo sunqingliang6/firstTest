@@ -1,2 +1,2 @@
-# firstTest
-start learn
+# python practice
+learn and practice python language
