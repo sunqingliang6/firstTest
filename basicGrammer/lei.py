@@ -26,4 +26,4 @@ if hasattr(redDog, "display"):
 else:
     print "no can shu"
 
-'''首次关联git haha'''
+'''首次关联git haha hahah'''
