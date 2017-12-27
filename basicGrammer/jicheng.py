@@ -42,4 +42,4 @@ try:
     cou.count()
     cou.count2()
 except:
-    print "error!"
+    print "error!HA"
