@@ -27,4 +27,4 @@ else:
     print "no can shu"
 
 '''首次关联git haha hahah'''
-'''commit one'''
+'''commit one 提到远端'''
